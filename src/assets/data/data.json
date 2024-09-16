@@ -1,0 +1,720 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "australia",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Sydney, Australia",
+          "imageUrl": "images/sydney.png",
+          "description": "A vibrant city known for its iconic landmarks like the Opera House and Sydney Harbour Bridge."
+        },
+        {
+          "id": 2,
+          "name": "Melbourne, Australia",
+          "imageUrl": "images/melbourne.png",
+          "description": "A cultural hub famous for its food, and diverse neighborhoods.Its known for vibrant street art."
+        },
+        {
+          "id": 3,
+          "name": "Brisbane, Australia",
+          "imageUrl": "images/brisbane.jpg",
+          "description": "Known for its relaxed atmosphere, South Bank Parklands, and vibrant culture.Famous for its scenic views."
+        },
+        {
+          "id": 4,
+          "name": "Perth, Australia",
+          "imageUrl": "images/perth.jpg",
+          "description": "A coastal city known for its beautiful beaches, Kings Park, and vibrant arts scene."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Great Barrier Reef",
+          "description": "The world's largest coral reef system, known for its stunning marine life and diving opportunities."
+        },
+        {
+          "id": 6,
+          "name": "Uluru",
+          "description": "A massive sandstone monolith in the heart of the Northern Territory, sacred to the Indigenous Australians."
+        },
+        {
+          "id": 7,
+          "name": "Sydney Opera House",
+          "description": "An architectural marvel and a major performing arts venue.Recognized globally for its iconic sail-like design."
+        },
+        {
+          "id": 8,
+          "name": "Great Ocean Road",
+          "description": "A scenic drive along the coast of Victoria, known for its stunning views and the Twelve Apostles rock formations."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "japan",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Tokyo, Japan",
+          "imageUrl": "images/tokyo.jpg",
+          "description": "A bustling metropolis blending tradition, famous for its cherry blossoms and rich culture."
+        },
+        {
+          "id": 2,
+          "name": "Kyoto, Japan",
+          "imageUrl": "images/kyoto.jpg",
+          "description": "Known for its historic temples, gardens, and traditional tea houses.offers a glimpse into Japan's rich history"
+        },
+        {
+          "id": 3,
+          "name": "Osaka, Japan",
+          "imageUrl": "images/osaka.jpg",
+          "description": "Famous for its modern architecture, vibrant nightlife, street food and known for its lively entertainment districts."
+        },
+        {
+          "id": 4,
+          "name": "Hiroshima, Japan",
+          "imageUrl": "images/hiroshima.jpg",
+          "description": "Known for the Peace Memorial Park and Museum, commemorating the victims of the atomic bombing."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Mount Fuji",
+          "description": "Japan's tallest peak and a popular destination for climbing and viewing.Fuji is an iconic symbol of Japan."
+        },
+        {
+          "id": 6,
+          "name": "Fushimi Inari Shrine",
+          "description": "Famous for its thousands of red torii gates leading up the mountain.Its dedicated to the Shinto god of rice."
+        },
+        {
+          "id": 7,
+          "name": "Tokyo Skytree",
+          "description": "A broadcasting, restaurant, and observation tower offering panoramic views of Tokyo."
+        },
+        {
+          "id": 8,
+          "name": "Himeji Castle",
+          "description": "A well-preserved hilltop castle known for its elegant white facade and intricate architecture."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "brazil",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "images/rio.jpg",
+          "description": "A lively city known for its stunning beaches, carnival celebrations, and iconic landmarks."
+        },
+        {
+          "id": 2,
+          "name": "São Paulo, Brazil",
+          "imageUrl": "images/paulo.png",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife.Known for its impressive skyline."
+        },
+        {
+          "id": 3,
+          "name": "Salvador, Brazil",
+          "imageUrl": "images/salvador.jpg",
+          "description": "Known for its Afro-Brazilian culture, and lively festivals.Famous for dance traditions like samba and capoeira."
+        },
+        {
+          "id": 4,
+          "name": "Brasília, Brazil",
+          "imageUrl": "images/brasilia.jpg",
+          "description": "The capital city known for its modernist architecture and urban planning.It has unique layout and striking buildings"
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Christ the Redeemer",
+          "description": "The iconic statue overlooking Rio de Janeiro, one of the New Seven Wonders of the World."
+        },
+        {
+          "id": 6,
+          "name": "Iguazu Falls",
+          "description": "A massive waterfall system located on the border with Argentina, known for its spectacular views."
+        },
+        {
+          "id": 7,
+          "name": "Sugarloaf Mountain",
+          "description": "A peak offering panoramic views of Rio de Janeiro, accessible by cable car.Provides breathtaking vistas of city, beaches."
+        },
+        {
+          "id": 8,
+          "name": "Selarón Steps",
+          "description": "A colorful mosaic staircase created by artist Jorge Selarón, connecting neighborhoods in Rio de Janeiro."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "italy",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Rome, Italy",
+          "imageUrl": "images/rome.jpg",
+          "description": "The capital city, home to the Colosseum, Vatican City, and ancient Roman landmarks."
+        },
+        {
+          "id": 2,
+          "name": "Venice, Italy",
+          "imageUrl": "images/venice.jpg",
+          "description": "A romantic city famous for its canals, gondolas, and historic architecture.Its renowned for its unique waterways."
+        },
+        {
+          "id": 3,
+          "name": "Florence, Italy",
+          "imageUrl": "images/florence.jpg",
+          "description": "Renowned for its Renaissance art and architecture, including the Uffizi Gallery and the Duomo."
+        },
+        {
+          "id": 4,
+          "name": "Milan, Italy",
+          "imageUrl": "images/milan.jpg",
+          "description": "Known for its fashion scene, the Gothic Cathedral of Milan, and the famous opera house La Scala."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Colosseum",
+          "description": "An ancient amphitheater in Rome, a symbol of the Roman Empire and one of the greatest works of Roman engineering."
+        },
+        {
+          "id": 6,
+          "name": "Vatican Museums",
+          "description": "A group of art and Christian museums located within Vatican City, home to the Sistine Chapel."
+        },
+        {
+          "id": 7,
+          "name": "Leaning Tower of Pisa",
+          "description": "A freestanding bell tower known for its unintended tilt, located in Pisa.Its a marvel of medieval engineering."
+        },
+        {
+          "id": 8,
+          "name": "Pantheon",
+          "description": "A well-preserved ancient Roman temple in Rome, now a church, known for its impressive dome."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "united states",
+      "cities": [
+        {
+          "id": 1,
+          "name": "New York City, USA",
+          "imageUrl": "images/nyc.jpg",
+          "description": "A bustling metropolis known for the Statue of Liberty, Times Square, and Central Park."
+        },
+        {
+          "id": 2,
+          "name": "Los Angeles, USA",
+          "imageUrl": "images/la.jpg",
+          "description": "Los Angeles is famous for Hollywood, entertainment industry, and its beautiful beaches."
+        },
+        {
+          "id": 3,
+          "name": "San Francisco, USA",
+          "imageUrl": "images/sanfran.jpg",
+          "description": "San Francisco is known for the Golden Gate Bridge, Alcatraz Island, and its historic cable cars."
+        },
+        {
+          "id": 4,
+          "name": "Chicago, USA",
+          "imageUrl": "images/chicago.jpg",
+          "description": "Chicago is famous for its architecture, Millennium Park, and the Art Institute of Chicago."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Statue of Liberty",
+          "description": "A colossal statue on Liberty Island, a symbol of freedom and democracy.Its designed by Frédéric Auguste Bartholdi."
+        },
+        {
+          "id": 6,
+          "name": "Grand Canyon",
+          "description": "A vast and majestic canyon carved by the Colorado River, known for its stunning views and hiking opportunities."
+        },
+        {
+          "id": 7,
+          "name": "Yellowstone National Park",
+          "description": "The first national park in the world, known for its geothermal features and diverse wildlife."
+        },
+        {
+          "id": 8,
+          "name": "Hollywood Walk of Fame",
+          "description": "A historic sidewalk in Hollywood, featuring stars dedicated to celebrities in the entertainment industry."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "france",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Paris, France",
+          "imageUrl": "images/paris.jpg",
+          "description": "Known for landmarks like the Eiffel Tower, the Louvre, and rich culture.Its celebrated for charming neighborhoods."
+        },
+        {
+          "id": 2,
+          "name": "Nice, France",
+          "imageUrl": "images/nice.jpg",
+          "description": "A beautiful coastal city on the French Riviera known for its beaches and relaxed atmosphere."
+        },
+        {
+          "id": 3,
+          "name": "Lyon, France",
+          "imageUrl": "images/lyon.jpg",
+          "description": "Famous for its historical and architectural landmarks, and its vibrant culinary scene.Known as gastronomic capital."
+        },
+        {
+          "id": 4,
+          "name": "Bordeaux, France",
+          "imageUrl": "images/bordeaux.jpg",
+          "description": "Known for wine production and beautiful riverfront.Its renowned for stunning 18th-century buildings."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Eiffel Tower",
+          "description": "An iconic wrought-iron lattice tower in Paris, known for its stunning views of the city."
+        },
+        {
+          "id": 6,
+          "name": "Louvre Museum",
+          "description": "The world's largest art museum, home to famous artworks like the Mona Lisa.Has an extensive collection of artworks."
+        },
+        {
+          "id": 7,
+          "name": "Versailles Palace",
+          "description": "A grand palace near Paris known for its opulent rooms and extensive gardens.Its a symbol of royal extravagance."
+        },
+        {
+          "id": 8,
+          "name": "Mont Saint-Michel",
+          "description": "A picturesque island commune in Normandy, known for its medieval abbey and stunning tides."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "spain",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Barcelona, Spain",
+          "imageUrl": "images/barcelona.jpg",
+          "description": "Known for its unique architecture by Gaudí, including the Sagrada Família and Park Güell."
+        },
+        {
+          "id": 2,
+          "name": "Madrid, Spain",
+          "imageUrl": "images/madrid.jpg",
+          "description": "Madrid is the capital city known for its royal palace, art museums, and vibrant nightlife."
+        },
+        {
+          "id": 3,
+          "name": "Seville, Spain",
+          "imageUrl": "images/seville.jpg",
+          "description": "Famous for its historical sites, including the Alcázar palace and the Gothic cathedral."
+        },
+        {
+          "id": 4,
+          "name": "Valencia, Spain",
+          "imageUrl": "images/valencia.jpg",
+          "description": "Valencia is known for its futuristic City of Arts and Sciences, beautiful beaches and scenic views."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Sagrada Família",
+          "description": "An unfinished basilica designed by Antoni Gaudí in Barcelona, known for its intricate facades and towering spires."
+        },
+        {
+          "id": 6,
+          "name": "Alhambra",
+          "description": "A palatial fortress in Granada, famous for its stunning Islamic architecture and gardens."
+        },
+        {
+          "id": 7,
+          "name": "Prado Museum",
+          "description": "It is a major art museum in Madrid, home to an extensive collection of European art and crafts"
+        },
+        {
+          "id": 8,
+          "name": "Park Güell",
+          "description": "A public park designed by Antoni Gaudí, known for its colorful mosaics and architectural elements."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "germany",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Berlin, Germany",
+          "imageUrl": "images/berlin.jpg",
+          "description": "The capital city, known for its historical sites, including the Berlin Wall and Brandenburg Gate."
+        },
+        {
+          "id": 2,
+          "name": "Munich, Germany",
+          "imageUrl": "images/munich.jpg",
+          "description": "Munich is famous for its Oktoberfest, historic architecture, and its vibrant cultural scene."
+        },
+        {
+          "id": 3,
+          "name": "Hamburg, Germany",
+          "imageUrl": "images/hamburg.jpg",
+          "description": "Hamburg is a major port city known for its harbor, Speicherstadt, and vibrant nightlife."
+        },
+        {
+          "id": 4,
+          "name": "Frankfurt, Germany",
+          "imageUrl": "images/frankfurt.jpg",
+          "description": "Known for its modern skyline, historic old town, financial district and dynamic arts scene."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Neuschwanstein Castle",
+          "description": "A fairy-tale castle in Bavaria, known for its stunning architecture and picturesque surroundings."
+        },
+        {
+          "id": 6,
+          "name": "Berlin Wall Memorial",
+          "description": "A historical site in Berlin commemorating Berlin Wall and its impact on the city, includes preserved sections of the wall."
+        },
+        {
+          "id": 7,
+          "name": "Brandenburg Gate",
+          "description": "An iconic 18th-century gate in Berlin, symbolizing the reunification of Germany. Its a neoclassical monument"
+        },
+        {
+          "id": 8,
+          "name": "Cologne Cathedral",
+          "description": "A Gothic cathedral in Cologne, known for its impressive twin spires and historical significance."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "india",
+      "cities": [
+        {
+          "id": 1,
+          "name": "Bangalore, India",
+          "imageUrl": "images/bangalore.jpg",
+          "description": "Known as the Silicon Valley of India, famous for its parks and technology hubs.Celebrated for its pleasant climate."
+        },
+        {
+          "id": 2,
+          "name": "New Delhi, India",
+          "imageUrl": "images/newdelhi.jpg",
+          "description": "The capital city, known for its historic landmarks such as the Red Fort and India Gate."
+        },
+        {
+          "id": 3,
+          "name": "Kolkata, India",
+          "imageUrl": "images/kolkata.jpg",
+          "description": "Famous for its colonial architecture, historic landmarks and its a city of diverse cultural experiences."
+        },
+        {
+          "id": 4,
+          "name": "Mumbai, India",
+          "imageUrl": "images/mumbai.jpg",
+          "description": "The financial capital, famous for Bollywood, Gateway of India, and vibrant street life."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Red Fort",
+          "description": "A historic fortification in Delhi, known for its red sandstone walls and Mughal architecture."
+        },
+        {
+          "id": 6,
+          "name": "India Gate",
+          "description": "A war memorial in New Delhi, dedicated to Indian soldiers who died in World War I, stands as symbol of national pride."
+        },
+        {
+          "id": 7,
+          "name": "Taj Mahal",
+          "description": "An iconic symbol of love and a masterpiece of Mughal architecture, located in Agra."
+        },
+        {
+          "id": 8,
+          "name": "Qutub Minar",
+          "description": "A towering minaret in Delhi, known for its intricate carvings and historical significance."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "united kingdom",
+      "cities": [
+        {
+          "id": 1,
+          "name": "London, UK",
+          "imageUrl": "images/london.jpg",
+          "description": "The capital city, known for landmarks like the London Eye, Buckingham Palace, and the British Museum."
+        },
+        {
+          "id": 2,
+          "name": "Edinburgh, UK",
+          "imageUrl": "images/edinburgh.jpg",
+          "description": "Famous for its historic and cultural attractions, including Edinburgh Castle and the Royal Mile."
+        },
+        {
+          "id": 3,
+          "name": "Manchester, UK",
+          "imageUrl": "images/manchester.jpg",
+          "description": "Manchester is known for its industrial heritage, vibrant music scene, and historic buildings."
+        },
+        {
+          "id": 4,
+          "name": "Birmingham, UK",
+          "imageUrl": "images/birmingham.jpg",
+          "description": "A major city known for its cultural diversity, shopping, and historic landmarks."
+        }
+      ],
+      "places": [
+        {
+          "id": 5,
+          "name": "Buckingham Palace",
+          "description": "The official residence of the British monarch, known for its Changing of the Guard ceremony."
+        },
+        {
+          "id": 6,
+          "name": "British Museum",
+          "description": "A world-renowned museum in London, home to a vast collection of art and artifacts from around the world."
+        },
+        {
+          "id": 7,
+          "name": "Stonehenge",
+          "description": "A prehistoric monument in Wiltshire, known for its mysterious stone circle and historical significance."
+        },
+        {
+          "id": 8,
+          "name": "Edinburgh Castle",
+          "description": "A historic fortress on Castle Rock, offering panoramic views of Edinburgh and rich history."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "images/ang.jpg",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world, Heritage site known for its grandeur."
+    },
+    {
+      "id": 2,
+      "name": "Khajuraho Temples, Madhya Pradesh",
+      "imageUrl": "images/khajuraho.jpg",
+      "description": "A UNESCO World Heritage site, famous for its stunning Nagara-style architecture, renowned for their intricate Carvings."
+    },
+    {
+      "id": 3,
+      "name": "Temple of Heaven, China",
+      "imageUrl": "images/heaven.jpg",
+      "description": "A Taoist temple complex in Beijing, known for its architectural grandeur.It served as a ceremonial site for the Ming dynasty"
+    },
+    {
+      "id": 4,
+      "name": "Borobudur, Indonesia",
+      "imageUrl": "images/borobudur.jpg",
+      "description": "The largest Buddhist temple in the world, located in Central Java.It is renowned for its massive stone relief panels and stupas."
+    },
+    {
+      "id": 5,
+      "name": "Golden Temple, India",
+      "imageUrl": "images/golden.jpg",
+      "description": "A stunning Sikh temple in Amritsar, known for its golden dome and peaceful ambiance."
+    },
+    {
+      "id": 6,
+      "name": "Kedarnath Temple, Uttarakhand",
+      "imageUrl": "images/kedarnath.jpg",
+      "description": "A Hindu temple located in the Himalayas, dedicated to Lord Shiva.Situated at an altitude of 3,583 meters."
+    },
+    {
+      "id": 7,
+      "name": "Wat Phra Kaew, Thailand",
+      "imageUrl": "images/watphra.jpg",
+      "description": "A sacred Buddhist temple in Bangkok, housing the Emerald Buddha.It is admired for its intricate design and rich heritage."
+    },
+    {
+      "id": 8,
+      "name": "Meenakshi Temple, India",
+      "imageUrl": "images/meenakshi.jpg",
+      "description": "A historic Hindu temple in Madurai, known for its gopurams and intricate sculptures.A masterpiece of Dravidian architecture."
+    },
+    {
+      "id": 9,
+      "name": "Prambanan, Indonesia",
+      "imageUrl": "images/prambanan.jpg",
+      "description": "A large Hindu temple complex in Java, known for its towering spires.It showcases the grandeur of Javanese architecture."
+    },
+    {
+      "id": 10,
+      "name": "Sensoji Temple, Japan",
+      "imageUrl": "images/sensoji.jpg",
+      "description": "An ancient Buddhist temple in Tokyo, known for its impressive gate and traditional architecture."
+    },
+    {
+      "id": 11,
+      "name": "Brihadeeswara Temple, Tamil Nadu",
+      "imageUrl": "images/brihadeeswara.jpg",
+      "description": "A UNESCO World Heritage site, this grand Hindu temple in Thanjavur is known for its towering architecture."
+    },
+    {
+      "id": 12,
+      "name": "Konark Sun Temple, Odisha",
+      "imageUrl": "images/konark.jpg",
+      "description": "A 13th-century temple dedicated to the Sun God, known for its exquisite stone carvings, architecture shaped like chariot."
+    },
+    {
+      "id": 13,
+      "name": "Somnath Temple, Gujarat",
+      "imageUrl": "images/somnath.jpg",
+      "description": "One of the twelve Jyotirlinga shrines of Shiva, located on the western coast of India."
+    },
+    {
+      "id": 14,
+      "name": "Shwedagon Pagoda, Myanmar",
+      "imageUrl": "images/shwedagon.jpg",
+      "description": "A golden stupa located in Yangon, considered the most sacred Buddhist pagoda in Myanmar."
+    },
+    {
+      "id": 15,
+      "name": "Ramanathaswamy Temple, Tamil Nadu",
+      "imageUrl": "images/ramanathaswamy.jpg",
+      "description": "A significant temple on Rameswaram Island, known for its long corridors and Dravidian architecture."
+    },
+    {
+      "id": 16,
+      "name": "Virupaksha Temple, Karnataka",
+      "imageUrl": "images/virupaksha.jpg",
+      "description": "A historic temple in Hampi, dedicated to Lord Shiva, with beautiful carvings and a towering gopuram."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Palolem Beach, Goa",
+      "imageUrl": "images/palolem.jpg",
+      "description": "A serene beach known for its crescent shape, calm waters, and scenic beauty.Its a popular destination for relaxing."
+    },
+    {
+      "id": 2,
+      "name": "Varkala Beach, Kerala",
+      "imageUrl": "images/varkala.jpg",
+      "description": "Famous for its cliffs, this beach offers stunning views, natural springs and has a unique topography."
+    },
+    {
+      "id": 3,
+      "name": "Maldives, Indian Ocean",
+      "imageUrl": "images/maldives.jpg",
+      "description": "A tropical paradise with crystal-clear waters and stunning coral reefs.Known for its luxurious overwater bungalows"
+    },
+    {
+      "id": 4,
+      "name": "Waikiki Beach, Hawaii",
+      "imageUrl": "images/waikiki.jpg",
+      "description": "A world-famous beach in Honolulu, known for its surfing and vibrant nightlife, offers picturesque views of Diamond Head"
+    },
+    {
+      "id": 5,
+      "name": "Whitehaven Beach, Australia",
+      "imageUrl": "images/whitehaven.jpg",
+      "description": "A pristine beach on Whitsunday Island, known for its pure white silica sand.Its renowned for its stunning contrast"
+    },
+    {
+      "id": 6,
+      "name": "Maya Bay, Thailand",
+      "imageUrl": "images/maya.jpg",
+      "description": "A stunning bay surrounded by cliffs, made famous by the movie 'The Beach'.Its a natural beauty of Thailand."
+    },
+    {
+      "id": 7,
+      "name": "Anse Source d'Argent, Seychelles",
+      "imageUrl": "images/anse.jpg",
+      "description": "A picturesque beach with pink sand, granite boulders, and clear blue waters.Perfect destination for sunbathing."
+    },
+    {
+      "id": 8,
+      "name": "Navagio Beach, Greece",
+      "imageUrl": "images/navagio.jpg",
+      "description": "A secluded beach on Zakynthos, famous for its shipwreck and clear blue waters.Its surrounded by dramatic cliffs."
+    },
+    {
+      "id": 9,
+      "name": "Tulum Beach, Mexico",
+      "imageUrl": "images/tulum.jpg",
+      "description": "A stunning beach with ancient Mayan ruins overlooking the Caribbean Sea.It gives a glimpse of Mexico's ancient past."
+    },
+    {
+      "id": 10,
+      "name": "Seven Mile Beach, Jamaica",
+      "imageUrl": "images/sevenmile.jpg",
+      "description": "A beautiful stretch of white sand beach in Negril, known for crystal-clear waters, famous for long, unspoiled coastline"
+    },
+    {
+      "id": 11,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "images/bora.jpg",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+    },
+    {
+      "id": 12,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "images/copa.jpg",
+      "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+    },
+    {
+      "id": 13,
+      "name": "Radhanagar Beach, Andaman and Nicobar Islands",
+      "imageUrl": "images/radhanagar.jpg",
+      "description": "A picturesque beach known for its pristine white sands and clear blue waters.Its celebrated for its tranquil ambiance"
+    },
+    {
+      "id": 14,
+      "name": "Marina Beach, Tamil Nadu",
+      "imageUrl": "images/marina.jpg",
+      "description": "One of the longest urban beaches in the world, located in Chennai.Its known for bustling promenade, local life"
+    },
+    {
+      "id": 15,
+      "name": "Kovalam Beach, Kerala",
+      "imageUrl": "images/kovalam.jpg",
+      "description": "A famous beach known for crescent-shaped coastline and lighthouse.Its popular forcalm waters and vibrant culture."
+    },
+    {
+      "id": 16,
+      "name": "Puri Beach, Odisha",
+      "imageUrl": "images/puri.jpg",
+      "description": "A popular beach on the eastern coast of India, known for its proximity to the Jagannath Temple."
+    }
+  ]
+}
