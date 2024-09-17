@@ -7,6 +7,7 @@ import About from "./components/about";
 import Contact from "./components/contact";
 import Explore from "./components/explore";
 import ExploreResult from "./components/exploreResult";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/explore" element={<Explore />} />
         <Route path="/explore/result" element={<ExploreResult />} />
       </Routes>
+      {/* <Footer /> */}
     </div>
   );
 }

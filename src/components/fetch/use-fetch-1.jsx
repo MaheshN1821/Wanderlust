@@ -11,9 +11,7 @@ function GettingDataOne() {
   useEffect(() => {
     async function fetching() {
       try {
-        const response = await fetch(
-          "/Wanderlust/src/assets/information/info.json"
-        );
+        const response = await fetch("/information/info.json");
         const result = await response.json();
 
         if (pName === "temple" || pName === "temples" || pName === "temp") {
