@@ -5,7 +5,7 @@ function About() {
   return (
     <div className="mainCont">
       <div className="abtContent">
-        <h1>ABOUT US</h1>
+        <h1 className="onlyHeadings">ABOUT US</h1>
         <span className="spntxt">
           Welcome to our travel recommendation website, your go-to destination
           for personalized travel insights and expert advice. Our mission is to
@@ -17,7 +17,9 @@ function About() {
         </span>
       </div>
       <div className="team">
-        <div className="cardheadtxt">OUR TEAM</div>
+        <div className="cardheadtxt">
+          <h1 className="onlyHeadings">OUR TEAM</h1>
+        </div>
         <div className="card-container">
           <CardOne />
           <CardTwo />

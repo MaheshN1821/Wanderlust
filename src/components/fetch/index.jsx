@@ -54,11 +54,6 @@ function Data() {
           Clear
         </button>
       </div>
-      {/* <div className="protip">
-        <span className="pro">Pro Tip</span>
-        <span> : Ignore this if it is your First Search</span>
-        <div>If not then CLICK ON CLEAR</div>
-      </div> */}
     </div>
   );
 }

@@ -27,13 +27,13 @@ function Content() {
 
   return (
     <div className="content">
-      <h1 className="headtxt">DISCOVER YOUR NEXT ADVENTURE!</h1>
+      <h1 className="headtxt onlyHead">DISCOVER YOUR NEXT ADVENTURE!</h1>
       <span className="spantxt">
         Uncover hidden gems and top destinations curated just for you. Let us
         guide you to new experiences and unforgettable memories, whether you're
         planning a weekend getaway or a global expedition.
       </span>
-      <button className="homePageBtn" onClick={handleHomePageNav}>
+      <button className="homePageBtn onlyHead" onClick={handleHomePageNav}>
         Explore!
       </button>
     </div>

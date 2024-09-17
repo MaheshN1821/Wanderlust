@@ -39,10 +39,18 @@ function Navbar() {
   return (
     <Container>
       <div className="container">
-        <p onClick={() => Navigate("/")}>Home</p>
-        <p onClick={() => Navigate("/about")}>About</p>
-        <p onClick={() => Navigate("/contact")}>Contact</p>
-        <p onClick={handleClear}>Explore</p>
+        <p onClick={() => Navigate("/")} className="onlyNav">
+          Home
+        </p>
+        <p onClick={() => Navigate("/about")} className="onlyNav">
+          About
+        </p>
+        <p onClick={() => Navigate("/contact")} className="onlyNav">
+          Contact
+        </p>
+        <p onClick={handleClear} className="onlyNav">
+          Explore
+        </p>
       </div>
     </Container>
   );

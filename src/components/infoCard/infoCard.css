@@ -90,6 +90,22 @@
   width: 100%;
 }
 
+::-webkit-scrollbar {
+  width: 14px;
+}
+
+::-webkit-scrollbar-track {
+  background: #121212;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #555;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}
+
 @media screen and (min-width: 440px) {
   .infoCard:hover .infoCard-img {
     transform: translateY(-5em);

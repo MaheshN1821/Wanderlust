@@ -39,8 +39,8 @@ function SampleCard() {
           }}
         >
           <div className="to-display">
-            <div>TEMPLES</div>
-            <button className="containerBtn" onClick={handleTemple}>
+            <div className="hangText">TEMPLES</div>
+            <button className="containerBtn hangText" onClick={handleTemple}>
               Explore
             </button>
           </div>
@@ -53,8 +53,8 @@ function SampleCard() {
           }}
         >
           <div className="to-display">
-            <div>BEACHES</div>
-            <button className="containerBtn" onClick={handleBeach}>
+            <div className="hangText">BEACHES</div>
+            <button className="containerBtn hangText" onClick={handleBeach}>
               Explore
             </button>
           </div>
@@ -72,23 +72,25 @@ function SampleCard() {
           onMouseOut={handleOut}
         >
           <div className="to-display">
-            <div>PLACES</div>
+            <div className="hangText">PLACES</div>
           </div>
         </div>
         <div className="forPosition">
           <div className="hanging" id="hang">
-            <span>Search for these places above!</span>
+            <span className="hangText increaseFont">
+              Search for these places above!
+            </span>
             <ol>
-              <li>India</li>
-              <li>Japan</li>
-              <li>Italy</li>
-              <li>Australia</li>
-              <li>Brazil</li>
-              <li>France</li>
-              <li>Germany</li>
-              <li>Spain</li>
-              <li>United States</li>
-              <li>United Kingdom</li>
+              <li className="hangText">India</li>
+              <li className="hangText">Japan</li>
+              <li className="hangText">Italy</li>
+              <li className="hangText">Australia</li>
+              <li className="hangText">Brazil</li>
+              <li className="hangText">France</li>
+              <li className="hangText">Germany</li>
+              <li className="hangText">Spain</li>
+              <li className="hangText">United States</li>
+              <li className="hangText">United Kingdom</li>
             </ol>
           </div>
         </div>

@@ -1,3 +1,19 @@
+.quattrocento-regular {
+  font-family: "Quattrocento", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.baskervville-regular {
+  font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.onlyHeadings {
+  font-family: "Baskervville", serif, cursive;
+}
+
 .mainCont {
   display: flex;
   flex-wrap: wrap;
@@ -22,7 +38,7 @@
 }
 
 .cardheadtxt {
-  font-size: 3rem;
+  font-size: 1.2rem;
   text-align: center;
   font-weight: 600;
   width: 50vh;
@@ -31,6 +47,7 @@
 
 .spntxt {
   font-size: 1.1rem;
+  font-family: "Quattrocento", "Times New Roman", Times, serif;
 }
 
 .card-container {

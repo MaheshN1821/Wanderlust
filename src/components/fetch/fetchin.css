@@ -1,3 +1,9 @@
+.baskervville-regular {
+  font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .usrin {
   background-color: transparent;
   padding: 10px;
@@ -6,6 +12,7 @@
   border-radius: 32px;
   width: 300px;
   background-color: rgba(0, 0, 0, 0.671);
+  font-family: "Baskervville", serif, cursive;
 }
 
 .searchbtn {
@@ -17,6 +24,7 @@
   margin: 10px;
   cursor: pointer;
   border-radius: 24px;
+  font-family: "Baskervville", serif, cursive;
 }
 
 .inbtnback {
@@ -25,22 +33,4 @@
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-}
-
-.protip {
-  background-color: rgba(0, 0, 0, 0.616);
-  display: none;
-  padding: 10px;
-  font-weight: 600;
-  text-align: center;
-}
-
-.pro {
-  font-weight: 700;
-  font-size: 1.1rem;
-  border-bottom: 1px solid white;
-}
-
-.inbtnback:hover .protip {
-  display: block;
 }

@@ -1,3 +1,13 @@
+.baskervville-regular {
+  font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.hangText {
+  font-family: "Baskervville", serif, cursive;
+}
+
 .box-container {
   width: 300px;
   height: 290px;
@@ -11,7 +21,7 @@
 .to-display {
   border: 1px solid wheat;
   text-align: center;
-  padding: 66px 54px;
+  padding: 66px 40px;
   font-size: 2rem;
   opacity: 0;
 }
@@ -31,7 +41,7 @@
   width: 120px;
   padding: 12px;
   text-align: center;
-  top: 12px;
+  top: -2px;
   opacity: 0;
   transition: all 0.5s ease-in;
   right: -60px;
@@ -65,6 +75,10 @@
 .extra2 {
   display: flex;
   flex-direction: row;
+}
+
+.increaseFont {
+  font-size: 18px;
 }
 
 .box-container:hover .to-display {
