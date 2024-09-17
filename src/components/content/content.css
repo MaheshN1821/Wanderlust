@@ -54,3 +54,12 @@
   font-size: 1.4rem;
   font-weight: 500;
 }
+
+@media screen and (max-width: 440px) {
+  .headtxt {
+    font-size: 2rem;
+  }
+  .spantxt {
+    font-size: 1.1rem;
+  }
+}
